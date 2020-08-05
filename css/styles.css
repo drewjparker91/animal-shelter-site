@@ -1,7 +1,23 @@
 .column {
-  width: 30%;
+  width: 33%;
+  height: 500px;
   float: left;
-  border: 50px;
-  border-color: red;
+  border: 10px solid red;
   box-sizing: border-box;
+}
+
+.column img {
+  margin: auto;
+  width: 33%;
+  height: auto;
+  display: block;
+}
+
+.danger {
+  color: yellow;
+  font-weight: 900;
+}
+
+body {
+  background-color: green;
 }
