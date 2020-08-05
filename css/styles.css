@@ -26,3 +26,7 @@ body {
   background-color: green;
   font-family: sans-serif;
 }
+
+.column h3 {
+  font-size: large;
+}
