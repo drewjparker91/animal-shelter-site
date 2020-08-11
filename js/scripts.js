@@ -8,4 +8,8 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("daytime");
   });
+
+  $("button#originalBackground").click(function() {
+    $("body").removeClass();
+  });
 });
