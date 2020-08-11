@@ -31,6 +31,16 @@ body {
   font-size: large;
 }
 
+.nighttime {
+  background-color: black;
+  color: white;
+}
+
+.daytime {
+  background-color: white;
+  color: black;
+}
+
 @media screen and (max-width 1000px) {
   body {
     background-color: black;
